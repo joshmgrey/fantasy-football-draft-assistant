@@ -1,0 +1,16 @@
+# Ignore Python cache and virtual environment
+__pycache__/
+venv/
+
+# Ignore environment variables
+.env
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore MySQL database dumps
+*.sql
+*.bak
+*.dump
+ 
